@@ -8,7 +8,7 @@
 		<version>2.3.12.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.pe.relari</groupId>
+	<groupId>pe.com.relari</groupId>
 	<artifactId>backend-training-api</artifactId>
 	<version>1.0.1-SNAPSHOT</version>
 	<name>backend-training-api</name>
